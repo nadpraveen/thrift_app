@@ -1,0 +1,71 @@
+[19-May-2021 11:42:59 asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/bvevyvk9tr2r/public_html/web_app/db.php:26
+Stack trace:
+#0 /home/bvevyvk9tr2r/public_html/web_app/db.php(26): PDO->__construct('mysql:host=loca...', 'root', 'Thrift@1918', Array)
+#1 /home/bvevyvk9tr2r/public_html/web_app/top_scrol.php(11): Database->__construct()
+#2 /home/bvevyvk9tr2r/public_html/web_app/header.php(209): include('/home/bvevyvk9t...')
+#3 /home/bvevyvk9tr2r/public_html/web_app/index.php(3): include('/home/bvevyvk9t...')
+#4 {main}
+  thrown in /home/bvevyvk9tr2r/public_html/web_app/db.php on line 26
+[19-May-2021 15:53:16 asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/bvevyvk9tr2r/public_html/web_app/db.php:26
+Stack trace:
+#0 /home/bvevyvk9tr2r/public_html/web_app/db.php(26): PDO->__construct('mysql:host=loca...', 'root', 'Thrift@1918', Array)
+#1 /home/bvevyvk9tr2r/public_html/web_app/top_scrol.php(11): Database->__construct()
+#2 /home/bvevyvk9tr2r/public_html/web_app/header.php(209): include('/home/bvevyvk9t...')
+#3 /home/bvevyvk9tr2r/public_html/web_app/index.php(3): include('/home/bvevyvk9t...')
+#4 {main}
+  thrown in /home/bvevyvk9tr2r/public_html/web_app/db.php on line 26
+[19-May-2021 15:53:32 asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/bvevyvk9tr2r/public_html/web_app/db.php:26
+Stack trace:
+#0 /home/bvevyvk9tr2r/public_html/web_app/db.php(26): PDO->__construct('mysql:host=loca...', 'root', 'Thrift@1918', Array)
+#1 /home/bvevyvk9tr2r/public_html/web_app/top_scrol.php(11): Database->__construct()
+#2 /home/bvevyvk9tr2r/public_html/web_app/header.php(209): include('/home/bvevyvk9t...')
+#3 /home/bvevyvk9tr2r/public_html/web_app/index.php(3): include('/home/bvevyvk9t...')
+#4 {main}
+  thrown in /home/bvevyvk9tr2r/public_html/web_app/db.php on line 26
+[19-May-2021 16:25:27 asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/bvevyvk9tr2r/public_html/web_app/db.php:26
+Stack trace:
+#0 /home/bvevyvk9tr2r/public_html/web_app/db.php(26): PDO->__construct('mysql:host=loca...', 'root', 'Thrift@1918', Array)
+#1 /home/bvevyvk9tr2r/public_html/web_app/top_scrol.php(11): Database->__construct()
+#2 /home/bvevyvk9tr2r/public_html/web_app/header.php(209): include('/home/bvevyvk9t...')
+#3 /home/bvevyvk9tr2r/public_html/web_app/index.php(3): include('/home/bvevyvk9t...')
+#4 {main}
+  thrown in /home/bvevyvk9tr2r/public_html/web_app/db.php on line 26
+[19-May-2021 16:57:39 asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/bvevyvk9tr2r/public_html/web_app/db.php:26
+Stack trace:
+#0 /home/bvevyvk9tr2r/public_html/web_app/db.php(26): PDO->__construct('mysql:host=loca...', 'root', 'Thrift@1918', Array)
+#1 /home/bvevyvk9tr2r/public_html/web_app/top_scrol.php(11): Database->__construct()
+#2 /home/bvevyvk9tr2r/public_html/web_app/header.php(209): include('/home/bvevyvk9t...')
+#3 /home/bvevyvk9tr2r/public_html/web_app/index.php(3): include('/home/bvevyvk9t...')
+#4 {main}
+  thrown in /home/bvevyvk9tr2r/public_html/web_app/db.php on line 26
+[19-May-2021 22:40:45 asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/bvevyvk9tr2r/public_html/web_app/db.php:26
+Stack trace:
+#0 /home/bvevyvk9tr2r/public_html/web_app/db.php(26): PDO->__construct('mysql:host=loca...', 'root', 'Thrift@1918', Array)
+#1 /home/bvevyvk9tr2r/public_html/web_app/top_scrol.php(11): Database->__construct()
+#2 /home/bvevyvk9tr2r/public_html/web_app/header.php(209): include('/home/bvevyvk9t...')
+#3 /home/bvevyvk9tr2r/public_html/web_app/index.php(3): include('/home/bvevyvk9t...')
+#4 {main}
+  thrown in /home/bvevyvk9tr2r/public_html/web_app/db.php on line 26
+[20-May-2021 00:03:07 asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES) in /home/bvevyvk9tr2r/public_html/web_app/db.php:26
+Stack trace:
+#0 /home/bvevyvk9tr2r/public_html/web_app/db.php(26): PDO->__construct('mysql:host=loca...', 'root', 'Thrift@1918', Array)
+#1 /home/bvevyvk9tr2r/public_html/web_app/top_scrol.php(11): Database->__construct()
+#2 /home/bvevyvk9tr2r/public_html/web_app/header.php(209): include('/home/bvevyvk9t...')
+#3 /home/bvevyvk9tr2r/public_html/web_app/index.php(3): include('/home/bvevyvk9t...')
+#4 {main}
+  thrown in /home/bvevyvk9tr2r/public_html/web_app/db.php on line 26
+[20-May-2021 06:48:24 asia/kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'thrift_data.scrole' doesn't exist in /home/bvevyvk9tr2r/public_html/web_app/db.php:35
+Stack trace:
+#0 /home/bvevyvk9tr2r/public_html/web_app/db.php(35): PDOStatement->execute()
+#1 /home/bvevyvk9tr2r/public_html/web_app/top_scrol.php(12): Database->query('select * from s...')
+#2 /home/bvevyvk9tr2r/public_html/web_app/header.php(209): include('/home/bvevyvk9t...')
+#3 /home/bvevyvk9tr2r/public_html/web_app/index.php(3): include('/home/bvevyvk9t...')
+#4 {main}
+  thrown in /home/bvevyvk9tr2r/public_html/web_app/db.php on line 35
+[20-May-2021 02:11:04 UTC] PHP Notice:  Undefined offset: 2 in /home/bvevyvk9tr2r/public_html/web_app/header.php on line 15
+[20-May-2021 11:56:33 asia/kolkata] PHP Warning:  scandir(albums): failed to open dir: No such file or directory in /home/bvevyvk9tr2r/public_html/web_app/folio-gallery.php on line 109
+[20-May-2021 11:56:33 asia/kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/bvevyvk9tr2r/public_html/web_app/folio-gallery.php on line 109
+[20-May-2021 11:56:33 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/bvevyvk9tr2r/public_html/web_app/folio-gallery.php on line 116
+[20-May-2021 19:09:43 asia/kolkata] PHP Warning:  scandir(albums): failed to open dir: No such file or directory in /home/bvevyvk9tr2r/public_html/web_app/folio-gallery.php on line 109
+[20-May-2021 19:09:43 asia/kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/bvevyvk9tr2r/public_html/web_app/folio-gallery.php on line 109
+[20-May-2021 19:09:43 asia/kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/bvevyvk9tr2r/public_html/web_app/folio-gallery.php on line 116

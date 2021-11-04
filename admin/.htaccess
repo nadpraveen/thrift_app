@@ -1,0 +1,4 @@
+#AuthType Basic
+#AuthName "Admin Area"
+#AuthUserFile "thrift_bootstrap/passwd"
+#require valid-user
